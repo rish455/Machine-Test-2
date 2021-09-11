@@ -1,5 +1,5 @@
 # Machine-Test-2
-Toolyt Machine Test
+Machine Test
 
 1. Build the app for to fetch the files from storage(.JPG & .pdf) and show the file name.
 2. Fetch the locations in the background and show the current latitude and longitude.
